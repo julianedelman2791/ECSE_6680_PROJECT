@@ -1,4 +1,4 @@
-FIR Filter Design and Implementation
+** FIR Filter Design and Implementation
 
 This project demonstrates the design, implementation, and analysis of a low-pass FIR filter. The objective of the project is to construct a FIR filter using MATLAB and implement various architectures in Verilog. Although the original specification called for a 100-tap filter, a 320-tap filter was chosen to meet the stringent requirements of a transition region from 0.2π to 0.23π rad/sample and at least 80 dB stopband attenuation.
 
